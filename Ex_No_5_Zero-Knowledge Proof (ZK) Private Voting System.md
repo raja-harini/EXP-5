@@ -1,4 +1,7 @@
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
+### NAME: HARINI R
+### REG NO: 212223100010
+### DEPARTMENT: CSE(CYBER SECURITY)
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
@@ -58,12 +61,15 @@ contract ZKVoting {
 ```
 # Expected Output:
 Voters commit their votes privately.
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 091510" src="https://github.com/user-attachments/assets/314e4bad-a3ff-4c0b-a9b7-8b7c15987917" />
 
 
 When revealed, the contract verifies correctness but keeps votes anonymous.
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 091520" src="https://github.com/user-attachments/assets/054f138b-d27c-4569-8566-4dd684d9c72d" />
 
 Final result is publicly verifiable without exposing individual votes.
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 091532" src="https://github.com/user-attachments/assets/a36d6edb-f431-42e9-b6eb-985251b9cfdb" />
 
 
 
@@ -77,3 +83,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs) is executed successfully.
